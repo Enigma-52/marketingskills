@@ -30,15 +30,16 @@
     {
       "id": "aisa",
       "name": "AIsa",
-      "url": "https://aisa.one/",
-      "category": "SEO tools",
-      "categoryShort": "SEO tools",
+      "url": "https://aisa.one",
+      "category": "SEO, search & social data",
+      "categoryShort": "SEO, search & social data",
       "tier": "skill-partner",
       "tagline": "One API key for SEO and marketing data",
-      "blurb": "AIsa gives agents one API key for SEO, search, social, and market data from Similarweb, Semrush, Ahrefs, DataForSEO, Tavily, and more. Connect through REST or MCP and pay per call, without opening separate vendor accounts or managing multiple credentials.",
+      "blurb": "One AIsa key, pay as you go, instead of a subscription to every data platform. Agents get SEO, search, social, and market data from Similarweb, Semrush, Ahrefs, DataForSEO, Tavily, Reddit, X, and more through REST or MCP, and pay only for the calls they make.",
       "logoUrl": "https://aisa.one/sales-api-intro/AIsa_LOGO.svg",
       "integration": "tools/integrations/aisa.md",
-      "active": true
+      "active": true,
+      "noRef": true
     }
   ]
 }

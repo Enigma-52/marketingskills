@@ -27,7 +27,7 @@ Anyone — including tool makers and partners — may contribute content that na
 |---------|----------|-------|
 | ◆ Converly | Conversion tracking / attribution | [converly.md](integrations/converly.md) |
 | ◆ Ploy | AI website & growth platform | [ploy.md](integrations/ploy.md) |
-| ◆ AIsa | SEO tools | [aisa.md](integrations/aisa.md) |
+| ◆ AIsa | SEO, search & social data | [aisa.md](integrations/aisa.md) |
 <!-- PARTNERS:END -->
 
 <!-- The table above is generated from partners.json — run `node scripts/sync-partners.mjs`. -->
